@@ -10,6 +10,7 @@ label{
 }
 
 div{
+    background-color: cadetblue;
     border: 2px solid rgb(179, 179, 179); 
     border-radius: 50px;
     padding: 100px; 
